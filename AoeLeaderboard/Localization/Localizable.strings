@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  AoeLeaderboard
+
+  Created by Ondrej Andrysek on 5/12/21.
+  
+*/
+
+"leaderboard.title" = "Leaderboard";
+
+"leaderboard.rating" = "Rating: %@";
+
+"leaderboard.winrate" = "Winrate: %@";
+
+"leaderboardDetail.title" = "Match detail";
+
+"leaderboardDetail.mapType" = "Map type: %@";
+
+"leaderboardDetail.civilization" = "Civilization: %@";
+
+"leaderboardDetail.hasWon" = "Has won";
+
+"leaderboardDetail.hasLost" = "Has lost";
+
+"leaderboardDetail.timeDuration" = "Time: %@ min";
+
+"errorMessage.unavailableData" = "We're sorry, we coulnd't load the data";

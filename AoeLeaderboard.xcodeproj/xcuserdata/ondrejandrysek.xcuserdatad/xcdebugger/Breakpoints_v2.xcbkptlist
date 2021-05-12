@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C59E7E8-BE55-4254-9720-A0FF014B7B1F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "689BC3E8-85EF-4ACE-B409-12764FF25AF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AoeLeaderboard/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "leaderboardDetail(profileID:onResult:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "689BC3E8-85EF-4ACE-B409-12764FF25AF1 - 67c4e178b142d2ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AoeLeaderboard.APIService.leaderboardDetail(profileID: Swift.Int64, onResult: (Swift.Optional&lt;AoeLeaderboard.LeaderboardDetail&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AoeLeaderboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ondrejandrysek/Documents/Swift/AoeLeaderboard/AoeLeaderboard/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  uuid = "689BC3E8-85EF-4ACE-B409-12764FF25AF1 - bf847020f0591957"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in AoeLeaderboard.APIService.leaderboardDetail(profileID: Swift.Int64, onResult: (Swift.Optional&lt;AoeLeaderboard.LeaderboardDetail&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AoeLeaderboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ondrejandrysek/Documents/Swift/AoeLeaderboard/AoeLeaderboard/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
